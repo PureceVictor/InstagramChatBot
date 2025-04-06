@@ -1,0 +1,17 @@
+click==8.1.7
+colorama==0.4.6
+packaging==24.2
+PyQt5 @ file:///C:/Users/victo/Downloads/PyQt5-5.15.4-py3-none-win_amd64.whl#sha256=213bebd51821ed89b4d5b35bb10dbe67564228b3568f463a351a08e8b1677025
+pyqt5-plugins @ file:///C:/users/victo/downloads/pyqt5_plugins-5.15.4.2.2-py3-none-win_amd64.whl#sha256=97685a20671f2fd0f21686aa6269291f247917d69bc2e0f53059f6998e586b4a
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.15.0
+qt5-applications==5.15.2.2.3
+qt5-tools==5.15.2.1.3
+setuptools==75.5.0
+sip==6.8.6
+
+PyQt5~=5.15.4
+chromedriver-autoinstaller~=0.6.4
+protobuf~=5.29.3
+selenium~=4.28.1
+python-dotenv~=1.0.1
